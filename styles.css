@@ -1,0 +1,45 @@
+
+body {
+    background-color: rgb(61, 50, 50);
+}
+
+hr {
+    width: 50%;
+    border-width: 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+#bomb-image {
+    margin: 2%;
+    width: 10%;
+    height: 10%;
+}
+
+#main-button {
+    border-width: 0px;
+    background-color: rgb(61, 50, 50);
+}
+
+#main-button:hover h1 {
+    text-decoration: underline;
+    text-underline-offset: 2%;
+}
+
+#main-text {
+    font-family: 'Segoe UI', 'Tahoma', 'Geneva', 'Verdana', 'sans-serif';
+    font-size: 80px;
+    color: rgb(241, 219, 219);
+    text-align: center;
+}
+
+#footer-text {
+    font-family: 'Geneva', 'Verdana', 'sans-serif';
+    font-size: 20px;
+    color: rgb(241, 219, 219);
+    text-align: center;
+}
+
+#footer-text:hover {
+    font-size: 40px;
+}
